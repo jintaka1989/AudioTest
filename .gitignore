@@ -1,0 +1,5 @@
+# ignore mp3, wav because these are large
+*.mp3
+*.wav
+test.py
+*.pyc
